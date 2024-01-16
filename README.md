@@ -71,5 +71,7 @@ yarn preview
 # bun
 bun run preview
 ```
+ps：把那个utils下的realPath改成你电脑存放user.json的绝对路径(user.json相对路径在../../public/user.json)
+不知道为什么使用相对路径不好用
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
